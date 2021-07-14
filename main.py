@@ -7,9 +7,9 @@ canvas = Canvas(window, width=400, height=500)
 canvas.pack()
 
 oval_x = 100
-oval_y = 50
+oval_y = 100
 oval_x_size = 50
-oval_y_size = 150
+oval_y_size = 200
 
 # x1, y1, x2, y2
 #RGB
